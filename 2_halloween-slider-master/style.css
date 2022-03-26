@@ -165,3 +165,41 @@ html, body {
     justify-content: space-around;
 }
 
+.content__next {
+    height: 180px;
+    width: 968px;
+    margin-bottom: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+
+}
+
+
+.text__01 {
+    font-size: 25px;
+    color: rgb(255, 255, 255);
+    display: flex;
+    justify-content: center;
+    margin-bottom: 8px;
+    
+}
+
+.text__02 {
+    color: rgb(255, 255, 255);
+    font-size: 45px;
+}
+
+.document__pump {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.text__03 {
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+    display: flex;
+    justify-content: center;
+}
