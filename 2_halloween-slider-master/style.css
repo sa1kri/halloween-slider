@@ -203,3 +203,32 @@ html, body {
     display: flex;
     justify-content: center;
 }
+
+.forx__chanel {
+    width: 960px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    align-content: space-around;
+}
+
+.forx__display {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: flex-start;
+}
+
+.forx__text_1 {
+    color: aliceblue;
+    font-size: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    align-content: center;
+}
+
+.googmoning {
+    color: aliceblue;
+    font-size: 48px;
+}
